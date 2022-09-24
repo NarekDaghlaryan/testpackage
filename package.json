@@ -1,0 +1,19 @@
+{
+  "name": "@ndaghlaryan/testpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NarekDaghlaryan/testpackage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NarekDaghlaryan/testpackage/issues"
+  },
+  "homepage": "https://github.com/NarekDaghlaryan/testpackage#readme"
+}
